@@ -4,7 +4,7 @@ import {Alert} from "react-native";
 import Loading from "./Loading";
 import Weather from "./Weather";
 import * as Location from 'expo-location';
-import axios from 'axios'
+import axios from 'axios';
 
 const API_KEY = "f65e2d149edfee4aed4c46fc28b6dce1";
 
