@@ -37,7 +37,7 @@ export default class extends React.Component {
       
     }
     catch(error){
-      Alert.alert("Can't find you.","So So Sad");
+      Alert.alert("Can't find you.","So Sad");
     }
   };
   componentDidMount(){
